@@ -1,4 +1,17 @@
-# TeachOpenCADD-BindingSiteDetection
-TeachOpenCADD talktorial on binding site detection
+# TeachOpenCADD - Binding Site Detection
 
-Created by Abishek
+**This repository is work-in-progress.**
+
+## Content
+
+Notebook on binding site detection for kinases:
+
+- Detect binding site using DoGSiteScorer
+- Choose the detected pocket with the best DrugScore
+- Compare pocket residues with KLIFS pocket residues 
+
+## Authors
+
+Volkamer Lab
+
+Abishek Laxmanan Ravi Shankar, supervised by Dominique Sydow
