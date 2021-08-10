@@ -1,6 +1,11 @@
 # TeachOpenCADD - Binding Site Detection
 
-**This repository is work-in-progress.**
+**NOTE: This notebook is work in progress. We plan to include parts of this notebook in the new round of talktorials on structural bioinformatics for the [TeachOpenCADD platform](https://github.com/volkamerlab/TeachOpenCADD).**
+
+We have extended this notebook a bit on the main TeachOpenCADD platform (still in a PR but will be merged soon):
+- Binding site detection: https://github.com/volkamerlab/teachopencadd/tree/t011-base/teachopencadd/talktorials/T014_binding_site_detection
+- Query the KLIFS database: https://github.com/volkamerlab/teachopencadd/tree/t011-base/teachopencadd/talktorials/T012_query_klifs
+
 
 ## Content
 
